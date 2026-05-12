@@ -22,7 +22,7 @@
   </sensor>
   <worldbody>
     
-    <body name="torso_subassembly" pos="0 0 0" quat="1 0 0 0" childclass="mjcf">
+    <body name="torso_subassembly" pos="0 0 1.2" quat="1 0 0 0" childclass="mjcf">
       <inertial pos="-0.00114344 -0.000332817 0.0495407" mass="2.90375" fullinertia="0.0354956 0.00454723 0.0341916 -5.22042e-06 6.42201e-05 4.37957e-05" />
       
       
